@@ -1,7 +1,5 @@
 {
-  "revoked": [
-    "KE9B68CA7"
-  ],
-  "updated": "2026-11-18T07:57:00Z",
-  "signature": "+M2/IEvfZmXM/8cJo1OYpgV0IBMBUTidvkIWcoYAZxksGQVM4TM6AojL3cjU8EmTHN7urJfHdbd5eklstOb7Bg=="
+  "revoked": [],
+  "updated": "2026-11-18T08:07:33Z",
+  "signature": "tOK2h5Xkp1jh4jlxVBlJx6IQde2xPY51av8UEIYgIdYe1fo3qqTwlR3hLP8IV8UiHMx7I7yDrRgbz2nwtS3FAg=="
 }
